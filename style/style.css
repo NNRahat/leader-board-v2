@@ -143,6 +143,9 @@ h2,h3{
 .fa-star{
     color: gold;
 }
+span label{
+    color: rgb(255, 84, 84);
+}
 .red{
     color: red;
 }
@@ -156,6 +159,11 @@ h2,h3{
 }
 .downspace{
     margin-bottom: 50px;
+}
+.card label{
+    background-color: rgb(254, 215, 215);
+    padding: 5px;
+    border-radius: 30px;
 }
 footer{
     height: 75px;
